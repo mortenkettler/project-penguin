@@ -1,0 +1,59 @@
+Belgian Style, Blonde   #Belgisk ljus ale/blone
+Belgian Style, Saison   #Saison och bière de garde
+Belgian Style, Tripel   #Ljus stark belgisk ale/trippel  
+Belgian Style, Dubbel   #Brune/Dubbel
+Belgian Style, Dark Belgian     #Abt, Quadrupel
+British/American Ale Style, Blonde ale
+British/American Ale Style, Irish Ale
+British/American Ale Style, Amber Ale
+British/American Ale Style, Mild Ale
+British/American Ale Style, Bitter   #English Pale Ale
+British/American Ale Style, Extra Special Bitter
+British/American Ale Style, Brown Ale
+British/American Ale Style, Old Ale
+British/American Ale Style, Strong Ale
+British/American Ale Style, Scottish Ale
+British/American Ale Style, Session IPA
+British/American Ale Style, American Pale Ale
+British/American Ale Style, India Pale Ale
+British/American Ale Style, Hazy IPA
+British/American Ale Style, Black IPA
+British/American Ale Style, Imperial IPA
+British/American Ale Style, Barley Wine
+German Ale Style, Kölsch
+German Ale Style, Altbier
+Other Beer Style, Spiced Beer
+Other Beer Style, Hybrid Beer
+Other Beer Style, Rauchbier
+Pale Lager Style, Helles  #Dortmunder and
+Pale Lager Style, Unfiltered Lager #Zwickel, Kellerbier, Landbier
+Pale Lager Style, German Pilsner
+Pale Lager Style, Czech Pilsner
+Pale Lager Style, India Pale Lager
+Pale Lager Style, International Pale Lager
+Pale Lager Style, Helles Bock
+Amber Lager Style, Märzen             #och Wiener
+Amber Lager Style, Czech Amber Lager  #Polotmavý
+Amber Lager Style, California Common
+Dark Lager Style, Dunkel
+Dark Lager Style, Schwarzbier
+Dark Lager Style, Doppelbock
+Dark Lager Style, Eisbock
+Porter/Stout Style, Dry Porter      #and Stout
+Porter/Stout Style, Sweet Porter    #and Stout
+Porter/Stout Style, Imperial Porter #and Stout
+Sour Ale Style, Gueuze
+Sour Ale Style, Faro
+Sour Ale Style, Lambic
+Sour Ale Style, Fruit Lambic
+Sour Ale Style, Flanders Red Ale
+Sour Ale Style, Berliner Weisse
+Sour Ale Style, Gose
+Sour Ale Style, Fruited Sour  #Smoothie
+Sour Ale Style, Wild Ale
+Wheat Ale Style, Witbier
+Wheat Ale Style, Kristallweizen
+Wheat Ale Style, Hefeweizen
+Wheat Ale Style, Hopfenweizen
+Wheat Ale Style, Dunkelweizen
+Wheat Ale Style, Weizenbock
