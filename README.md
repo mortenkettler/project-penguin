@@ -3,10 +3,16 @@
 Working title for a small CRUD application to pair foods and beer styles.
 
 Backend: Flask (Python)
+Frontend: React (Typescript?)
 
-Frontend: React.js
+Flask: lightweight web framework that simplifies  building APIs with minimal setup. Alternatives:
+Django: More feature-rich and opinionated, for large, complex applications.
+FastAPI: Performance-focused, modern, and ideal for API-heavy applications.
+Would be fun to test FastAPI as well.
 
-Database: Graph Database 
+Flask-smorest provides automatic OpenAPI (Swagger) documentation, input validation using Marshmallow, and modular API blueprints. Helps with API development through interactive documentation and enforcing data validation.
+Tested Flasgger and it sucked.
 
-Why?: I want to map some dozen beer styles to an (theoretically) "infinite" number of foodstuffs. For now in three categories: cooked food/main dish, cheese, dessert. 
-A Graph Database models data as nodes (entities) and edges (relationships), great for many-to-many relationships. Test locally with Neo4j, alternatives for AWS and Azure are Neptune and Cosmos DB, respectively.
+Marshmallow is used for object serialization and deserialization, as well as data validation.
+
+Create virtual environment! Called .venv

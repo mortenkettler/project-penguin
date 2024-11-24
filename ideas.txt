@@ -1,0 +1,23 @@
+Have a database with all beers in the fridge.
+Functionality/Fridge
+    # Show all beers
+    # Show all beers, sorted by Style
+    # Show all beers, sorted by Best Before Date
+    # Get Info for specific beer (from Untappd or Systembolaget)
+    # Add beer (if brewery doesnt exist, create)
+    # Delete beer
+    # Decrease number of beers ("take out of fridge")
+    # Increase number of beers ("put into the fridge")
+    Trigger: Reminder for beer becoming old
+    # Set Trigger time
+    Feature: Add info via barcode (like Untappd)?
+Wishlist
+    # Show all beers on Wishlist
+    # Get Info for specific beer (from Untappd or Systembolaget)
+    Trigger: Reminder on Day it comes out on Systembolaget
+    # Set Trigger time
+Find fitting Food for Beer:
+    # Click on a button to get ideas for cheese, dessert, food
+
+docker build -t flask-smorest .
+docker run -dp 5000:5000 -w /app -v ${PWD}:/app flask-smorest
